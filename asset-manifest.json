@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mithleshprasad/port123/static/css/main.12819f6b.css",
+    "main.js": "/mithleshprasad/port123/static/js/main.70aa5026.js",
+    "index.html": "/mithleshprasad/port123/index.html",
+    "main.12819f6b.css.map": "/mithleshprasad/port123/static/css/main.12819f6b.css.map",
+    "main.70aa5026.js.map": "/mithleshprasad/port123/static/js/main.70aa5026.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12819f6b.css",
+    "static/js/main.70aa5026.js"
+  ]
+}
